@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Intro to HTML</title>
+</head>
+<body>
+  <h1 align="left">FDM</h1>
+  <h2 align="center">BRINGING FANCY IDEAS TO LIVE</h2>
+  <h3 align="center">DIGITAL HEAVEN</h3>
+  <h4 align="center">GET A FREE QUOTE</h4>
+</body>
+</html>
+
+body{background-color:skyblue;
+  
+}
+h1{color:white;font-size:11pt;
+    
+  }
+h2{font-size:6pt}
+h3{font-size:28pt
+}
+h4{font-size:6pt}
